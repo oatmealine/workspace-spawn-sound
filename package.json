@@ -4,6 +4,7 @@
   "description": "Plays a configured noise when you open a workspace",
   "version": "0.0.1",
   "publisher": "oatmealine",
+  "repository": "https://github.com/oatmealine/workspace-spawn-sound",
   "engines": {
     "vscode": "^1.54.0"
   },
